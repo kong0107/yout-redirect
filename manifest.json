@@ -1,12 +1,12 @@
 {
     "manifest_version": 2,
-    "name": "YouTube Downloader",
-    "version": "0.1.0",
+    "name": "YouT Redirect",
+    "version": "0.1.1",
     "permissions": [
         "tabs"
     ],
     "page_action": {
-        "default_title": "YouTube Download",
+        "default_title": "YouT Redirect",
         "default_icon": "icon.png",
         "show_matches": [
             "*://*.youtube.com/watch?v=*"

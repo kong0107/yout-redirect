@@ -1,2 +1,2 @@
 # yout-redirect
-browser extension that redirect youtube link to yout.com
+browser extension that redirects youtube link to yout.com
